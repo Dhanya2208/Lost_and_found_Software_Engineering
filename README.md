@@ -59,9 +59,8 @@ AI Service (TensorFlow / PyTorch) - [Future]
 | 🌐 Frontend | React.js, Axios, Tailwind CSS |
 | ⚙️ Backend | Node.js, Express.js |
 | 🗄️ Database | MySQL 8.x |
-| 🔒 Security | bcrypt, JWT, Helmet |
-| ☁️ Hosting | AWS / Render / Vercel |
-| 🧠 AI Module | TensorFlow / PyTorch (Future) |
+| ☁️ Hosting | Vercel |
+| 🧠 AI Module | TensorFlow |
 
 ---
 
