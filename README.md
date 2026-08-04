@@ -1,4 +1,4 @@
-# 🧭 AI-Based Lost & Found Portal
+# 🧭  Lost and  Found Portal
 
 A **web-based platform** designed to help users **report lost and found items** efficiently. The portal enables users to post details and images of lost or found belongings, view others' submissions, and match items intelligently using AI-based image similarity (future enhancement).  
 
